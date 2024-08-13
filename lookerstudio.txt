@@ -1,0 +1,3 @@
+First we connect our consumer table `YOUR_BIGQUERY_PROJECT.YOUR_DATASET.YOUR_CONSUMER_TABLE` with a looker studio dashboard
+Then we create we press 'add field' and write this code, where 'Image' is the column with url of images: 
+IMAGE(Image, 'smth went wrong')
