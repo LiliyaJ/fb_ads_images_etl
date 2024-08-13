@@ -7,7 +7,6 @@ CampaignName,
 AdSetName,
 AdId,
 AdName,
-
 -- make the address readable from internet
 REPLACE(gcs_url, 'gs://', 'https://storage.cloud.google.com/') Image,
 Impressions,
